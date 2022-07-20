@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael F. Christensen / Michael F. Christensen"
+title                    : "Michael F. Christensen"
 title_separator          : "-"
 name                     : &name "Michael F. Christensen"
 description              : &description "PhD Candidate at Duke University in the Department of Statistical Science"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Michael Christensen"
   avatar           : "profile.png"
-  bio              : "Stats PhD Candidate at Duke University"
-  location         : "Durhamm, NC"
+  bio              : "PhD Candidate in Statistics at Duke University"
+  location         : "Durham, NC"
   employer         : 
   pubmed           : 
   googlescholar    : 
